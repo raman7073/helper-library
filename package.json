@@ -22,7 +22,7 @@
   "author": "Raman Mehta",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/raman7073/helper-library"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
@@ -40,6 +40,7 @@
   "types": "./src/index.d.ts",
   "dependencies": {
     "express": "^4.18.2",
+    "mongoose": "^8.0.3",
     "typescript": "^5.3.3"
   },
   "devDependencies": {
